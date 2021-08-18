@@ -49,7 +49,7 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Nino-chan02/NinoWangy
+git clone https://github.com/josue629/RIKKA-BOT
 cd NinoWangy
 npm install
 node main
@@ -59,7 +59,7 @@ node main
 termux-setup-storage
 pkg update && pkg upgrade
 pkg install nodejs git ffmpeg libwebp 
-git clone https://github.com/Nino-chan02/NinoWangy
+git clone https://github.com/josue629/RIKKA-BOT
 cd NinoWangy
 npm install
 node main
